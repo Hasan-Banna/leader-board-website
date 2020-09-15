@@ -1,0 +1,62 @@
+body{
+    background-color: #E5E5E5;
+}
+.navbar img{
+    width: 40px;
+}
+
+.margin li{
+    padding-right: 30px;
+}
+
+.player img{
+    width: 56px;
+}
+
+.top-player{
+    padding-top: 60px;
+    background-color: #FFFFFF;
+}
+.container{
+    padding-top: 30px;
+}
+
+.blog img{
+    width: 177px;
+}
+.top-blog{
+    padding-top: 60px;
+    background-color: #FFFFFF;
+}
+.checked {
+    color: orange;
+}
+.card img{
+    width: 224px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.card{
+    border: none;
+}
+.course{
+    padding-top: 60px;
+    background-color: #FFFFFF;
+    margin-right: 96px;
+    margin-left: 96px;
+}
+.time{
+    color:#FF4A60;
+    width: 94px;
+    height: 29px;
+    background: #FFE4E8;
+    border-radius: 14.6913px;
+    font-weight: 600;
+    font-size: 14.6913px;
+}
+h4{
+    color:#562EFF;
+}
+h6{
+    color: #562EFF;
+}
